@@ -1,6 +1,6 @@
 # autotest_infotecks
 Тестовое задание
-#Тестировал при помощи библиотеки pytest
+#Тестировал при помощи библиотеки pytest, тесты прогонял в среде PyCharm(пкм по паке tests --> run 'test on pytest')
 
 #Application_management и operation, необходимые функции для более удобной работы с приложением
 
